@@ -1,5 +1,5 @@
 /***************************************
- * 	Homework1_Ex3_Sum.c
+ * 	Homework1_Ex6_Swap.c
  *  Author: Mostafa Medhat
  ***************************************/
 
