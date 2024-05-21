@@ -41,7 +41,7 @@ int main()
 	{
 		for(int j=0; j<cols; j++)
 		{
-			t_mtrx[i][j] = mtrx[j][i];
+			t_mtrx[j][i] = mtrx[i][j];
 		}
 	}
 
